@@ -1,0 +1,11 @@
+{
+  "name": "dsl-generated dependencies",
+  "dependencies": {
+    "lodash": "latest",
+    "angular": "latest",
+    "angular-mocks": "latest",
+    "restangular": "latest",
+    "angular-ui-router": "0.2.13",
+    "animate-sass": "latest"
+  }
+}

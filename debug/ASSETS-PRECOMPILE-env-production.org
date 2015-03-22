@@ -1,0 +1,11 @@
+bogon:architizer-rails-angular djzhang$ rake assets:precompile RAILS_ENV=production
+/Volumes/Home/djzhang/.rvm/rubies/ruby-2.2.0/bin/ruby /Volumes/Home/djzhang/.rvm/gems/ruby-2.2.0/bin/rake requirejs:precompile:all RAILS_ENV=production RAILS_GROUPS=assets
+I, [2015-03-22T19:18:39.344418 #10685]  INFO -- : Writing /Volumes/Home/wanghaogithub720/djzhang/generator-rails-apps/architizer-rails-angular/public/assets/application-dda65604ca4294faa01a237f7e81238d.js
+I, [2015-03-22T19:18:39.349199 #10685]  INFO -- : Writing /Volumes/Home/wanghaogithub720/djzhang/generator-rails-apps/architizer-rails-angular/public/assets/home/home.tpl-a552794c5603fd366edc65238bdc8b67.html
+I, [2015-03-22T19:18:58.038299 #10685]  INFO -- : Writing /Volumes/Home/wanghaogithub720/djzhang/generator-rails-apps/architizer-rails-angular/public/assets/application-eaecb2b5901c903b9badf5f6e52b95ff.css
+I, [2015-03-22T19:18:59.300583 #10685]  INFO -- : Writing /Volumes/Home/wanghaogithub720/djzhang/generator-rails-apps/architizer-rails-angular/public/assets/require-680759db86eb22d5736380bcf100b975.js
+I, [2015-03-22T19:18:59.309140 #10685]  INFO -- : Writing /Volumes/Home/wanghaogithub720/djzhang/generator-rails-apps/architizer-rails-angular/public/assets/bootstrap/glyphicons-halflings-regular-050f85c5fbaa79689431c2a1f211fe2a.eot
+I, [2015-03-22T19:18:59.310661 #10685]  INFO -- : Writing /Volumes/Home/wanghaogithub720/djzhang/generator-rails-apps/architizer-rails-angular/public/assets/bootstrap/glyphicons-halflings-regular-3c8f142df5ab3046bbeb3c3310ae4fa9.svg
+I, [2015-03-22T19:18:59.311839 #10685]  INFO -- : Writing /Volumes/Home/wanghaogithub720/djzhang/generator-rails-apps/architizer-rails-angular/public/assets/bootstrap/glyphicons-halflings-regular-632d47971ce98f67252b59ec394cb688.ttf
+I, [2015-03-22T19:18:59.313019 #10685]  INFO -- : Writing /Volumes/Home/wanghaogithub720/djzhang/generator-rails-apps/architizer-rails-angular/public/assets/bootstrap/glyphicons-halflings-regular-e88ed3ff660b39de62652ed99f351552.woff
+I, [2015-03-22T19:18:59.314340 #10685]  INFO -- : Writing /Volumes/Home/wanghaogithub720/djzhang/generator-rails-apps/architizer-rails-angular/public/assets/bootstrap/glyphicons-halflings-regular-b5493d564382942c09f766d4c2b51f0a.woff2
